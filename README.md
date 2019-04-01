@@ -1,6 +1,6 @@
 # c3js-vue
 
-> A Vue.js project
+![](https://user-images.githubusercontent.com/6479063/55304619-32bbd700-5487-11e9-9b3a-4eeaa9c30e06.png)
 
 ## Build Setup
 
